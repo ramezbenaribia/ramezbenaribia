@@ -2,6 +2,12 @@
 
 ## About Me
 
+![I am 3rd year software engineer at institute of applied science and technology (INSAT)](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+
+Hi, I'm Ramez Ben Aribia , from Tunisia. I'm a
+Full-Stack Developer, Data-Science . I'm really open to working on open source projects with the community.
+
+
 ### Full-Stack Developer & Data Scientist
 
 - 🔭 Programming and solving problems are passions of mine.
