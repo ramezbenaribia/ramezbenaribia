@@ -50,3 +50,11 @@
 [instagram]: https://www.instagram.com/ramez.benaribia/
 [linkedin]: https://www.linkedin.com/in/ramez-ben-aribia/
 [facebook]: https://www.facebook.com/ramez.benaribia.54
+
+
+
+
+
+### **Stats**
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ramezbenaribia&show_icons=true&theme=tokyonight)
