@@ -12,6 +12,10 @@
 
 ## <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramezbenaribia" alt="ramezbenaribia" /></a> </p>
 
+## [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## Stats
 
 <!-- ![ramezbenaribia GitHub stats](https://github-readme-stats.vercel.app/api?username=ramezbenaribia&show_icons=true&theme=tokyonight)
